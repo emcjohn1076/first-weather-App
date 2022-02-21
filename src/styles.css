@@ -1,0 +1,50 @@
+body {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  line-height: 100px;
+}
+ul {
+  list-style-type: none;
+}
+small {
+  font-size: 15px;
+}
+.container {
+  font-family: "Lato", sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #d5d3eb;
+  border-radius: 5px;
+  border-color: grey;
+  padding: 20px;
+}
+.main-emoji {
+  font-size: 150px;
+  color: #6b62ff;
+}
+.description {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+.time {
+  font-size: 30px;
+}
+.current-temp {
+  font-size: 30px;
+}
+
+.fa-cloud-sun {
+  color: #6b62ff;
+}
+.fa-wind {
+  color: #6b62ff;
+}
+.fa-cloud {
+  color: #6b62ff;
+}
+.fa-cloud-showers-heavy {
+  color: #6b62ff;
+}
